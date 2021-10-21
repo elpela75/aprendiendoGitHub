@@ -10,5 +10,18 @@ con git commit -m "comentario del commit", paso los archivos al repositorio loca
 
 ....  repositorio local ....
 con git log se pueden ver los distintos commit que hice
+    git log --oneline (muestra todos los log, pero sin decir quien los hizo (sin detalles))
     git config --global user.name Leandro
     git config --global user.name nombreDeUsuarioDeGitHub
+
+
+
+    1) verificar la carpeta de proyecto
+    2) meterse en la carpeta
+    3) git init
+    4) configurar el usuario
+    5) configurar el mail de git hub
+    6) pasar los archivos no trackeados al stage area
+    7) git commit -m "comentario" para cargar el repositorio local con lo del stage area
+    8) a medida que se van haciendo cambios, controlar con git status, y repetir desde el paso 6
+    
