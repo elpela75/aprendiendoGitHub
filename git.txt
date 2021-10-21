@@ -1,0 +1,12 @@
+
+
+
+.... archivos no trackeados ...
+con git add * paso al stage area
+
+.....  stage Area  ....
+con git status, controlo que esta aca, y tengo que pasar al repositorio local
+con git commit -m "comentario del commit", paso los archivos al repositorio local
+
+....  repositorio local ....
+con git log se pueden ver los distintos commit que hice
