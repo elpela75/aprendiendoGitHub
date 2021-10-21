@@ -28,3 +28,6 @@ con git log se pueden ver los distintos commit que hice
        git remote add origin rutadelrepositorio  (vincular el repositorio remoto)
     10) para subir los cambios del repositorio local al repositorio remoto
         git push origin master (para subir al repositorio remoto)
+
+
+a ver
