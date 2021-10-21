@@ -10,3 +10,5 @@ con git commit -m "comentario del commit", paso los archivos al repositorio loca
 
 ....  repositorio local ....
 con git log se pueden ver los distintos commit que hice
+    git config --global user.name Leandro
+    git config --global user.name nombreDeUsuarioDeGitHub
